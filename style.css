@@ -16,7 +16,7 @@ body {
   width: 30%;
   height: 60%;
   margin: 0 auto;
-  margin-top: 80px;
+  margin-top: 40px;
   box-shadow: #000000 2px 2px 0 0;
 }
 h1 {
@@ -35,7 +35,9 @@ h1 {
   align-items: center;
   flex-direction: column-reverse;
   justify-content: space-between;
-  gap: 20px;
+}
+.lower-count{
+  margin-top:20px;
 }
 
 .btn {
